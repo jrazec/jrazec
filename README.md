@@ -1,8 +1,4 @@
 👋 Hi! I'm Razec,a BSIT student who's deeply immersed in the fascinating realm of coding. I'm always eager to learn and broaden my horizons.
-👯 I’m always excited to collaborate on projects, especially those related to Web Development, Machine Learning, and Data Analysis/Science!
-##
-Please keep in mind that I only have the fundamental foundation in these areas, I consider myself a lifelong learner. I’m always eager to learn more and improve my skills. So, let’s learn and grow together! 🚀
-
 ## 🛠 Skills
 Here are some skills I acquired in the past years: 🔭
 - **C++**
@@ -29,6 +25,10 @@ After wrapping up this semester, I plan to delve into:
 ## 🎯 Interests
 I enjoy watching videos on a variety of topics, especially data science and analysis🎥. I also have a curious mind that loves delving into theories - be it related to tech or any other field. 📚
 Yes, I do tend to procrastinate sometimes (I mean... who doesn't?), but yeahh, I'm working onnit! 😅
+
+## 👯 Collaborations
+I’m always excited to collaborate on projects, especially those related to Web Development, Machine Learning, and Data Analysis/Science!
+Please keep in mind that I only have the fundamental foundation in these areas, I consider myself a lifelong learner. I’m always eager to learn more and improve my skills. So, let’s learn and grow together! 🚀
 
 ## 📫 How to reach me
 Discord:
