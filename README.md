@@ -14,7 +14,7 @@ Here are some skills I acquired in the past years: 🔭
 
 ## 🌱 Currently Learning
 Recently,here's what I'm focusing on:
-##
+
 - **Python**: Exploring the versatility of this powerful language, which I'll try to focus onto. 🧑‍💻
 - **Google Sheets and Excel**: Trying to start learning these useful/must have skillsets! 🧑‍💻
 - **Linux**: Just gonna add this one 😆, tryna "master" this OS or should I say be more comfortable with its feels and the most powerful BASHH!!🧑‍💻
