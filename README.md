@@ -39,7 +39,7 @@ After wrapping up this semester, I plan to delve into:
 - **Continue my TOP Journey!!**
 
 ## 🎯 Interests
-I enjoy watching videos on a variety of topics, especially data science and analysis🎥. I also have a curious mind that loves delving into theories - be it related to tech or any other field. 📚
+I enjoy watching videos on a variety of topics, especially day in a life of a programmer!!🎥. I also have a curious mind that loves delving into theories - be it related to tech or any other field. 📚
 Yes, I do tend to procrastinate sometimes (I mean... who doesn't?), but yeahh, I'm working onnit! 😅
 
 ## 👯 Collaborations
@@ -47,7 +47,7 @@ I’m always excited to collaborate on projects, especially those related to Web
 Please keep in mind that I only have the fundamental foundation in these areas, I consider myself a lifelong learner. I’m always eager to learn more and improve my skills. So, let’s learn and grow together! 🚀
 
 ## 📫 How to reach me
-Discord: jase.9
+Discord username: jase.9
 
 LinkedIn: https://www.linkedin.com/in/jrazec/
 
