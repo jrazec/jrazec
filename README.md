@@ -1,4 +1,4 @@
-👋 Hi! I'm Razec,a Bachelor of Science in Information Technology sophomore who's deeply immersed in the fascinating realm of coding. I'm always eager to learn and broaden my horizons.
+👋 Hi! I'm Razec,a Bachelor of Science in Information Technology junior who's deeply immersed in the fascinating realm of coding. I'm always eager to learn and broaden my horizons.
 
 ## 🌱 2024 Goals
 [putting this here up to push myself to accomplish these goals!]
@@ -37,12 +37,13 @@ PLs:
 - **Python**: Exploring the versatility of this powerful language, which I'll try to focus onto. 🧑‍💻
 - **Javascript**: Also tryna deep dive into the realm of js
 
-## 📚 Future Learning Goals
-After wrapping up this semester, I plan to delve into:
+* Currently learning Machine Learning, Analyzing Big Data, and Statistics. 
 
-- **Python Libraries**
-- **AI and Machine Learning**
-- **MongoDB**
+## 📚 Learning Goals
+
+- **Strengthen Python Knowledge**
+- **Dive into Firebase and Flutter**
+- **Start learning more Maths!**
 - **Continue my The Odin Project Journey!!**
 
 ## 🎯 Interests
