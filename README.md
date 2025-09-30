@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jane Doe
+# 👋 Hi, I'm Razec
 
 ### Software Engineer | Full-Stack Developer | Tech Leader
 
@@ -133,7 +133,6 @@ JavaScript/TypeScript • Python • Java • PHP • C# • SQL
 - 🎯 **Lead Project Manager** - Directed 40-member team across 4 departments
 - 👥 **Organization President** - Led 19 officers and 600+ members
 - 🏫 **Community Educator** - Taught programming (Scratch) to high school students
-- 📚 **3rd Year Representative** - Organized 3-day computer literacy seminar
 - 🚀 **Hackathon Organizer** - Launched and coordinated multiple IT events
 
 ---
