@@ -50,20 +50,24 @@ JavaScript/TypeScript • Python • Java • PHP • C# • SQL
 
 ## 🎯 Featured Projects
 
-### 🌾 [Capstone Project - Coffee Bean Repository](link-to-repo)
+### 🌾 [Barakollect - Coffee Bean Repository](https://github.com/jrazec/barakollect)
 **Tech:** React • Django • Supabase • PostGIS • YOLOv11
 - Digital repository for Liberica/Excelsa coffee beans with ArUco marker-based CV model
 - GIS mapping implementation for farm-level analytics
 - Leading full development lifecycle: Git workflows, APIs, dashboards, deployment
 
-### 🎮 [4-Year Iterative Campus Navigation App](link-to-repo)
-**Tech:** C# • Node.js • Flutter
+### 🎮 [BSU-TNEU Lipa RPG](https://github.com/jrazec/bsu-tneu_lipa_rpg) - Freshman Years
+- C#.Net : Windows Forms
+### 🎮 [The Campus Chronicles](https://github.com/jrazec/tcc_web_app) - Sophomore Years
+- Ejs, HTML/CSS/JS, Kaboom.js, Nodejs
+### 🎮 [BSUniverse!](https://github.com/jrazec/bsu-niverse) - Junior Years
+- Flutter, Flame, Firebase Auth
 - Pokémon-style gamified campus navigation across 3 iterations (Desktop, Web, Mobile)
 - OOP architecture with backend APIs and cross-platform logic
 - Mentored teammates, led backend/game logic development
 - 20+ student testers during campus demo
 
-### 📅 [Room Base Scheduling System](link-to-repo)
+### 📅 [Q-Room: Room Base Scheduling System](https://github.com/jrazec/qroom)
 **Tech:** React • Node.js • Gemini API
 - QR-based room scheduling with faculty tagging
 - AI-driven feedback classification
@@ -80,15 +84,17 @@ JavaScript/TypeScript • Python • Java • PHP • C# • SQL
 ## 📊 GitHub Stats & Analytics
 
 <div align="center">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jrazec&show_icons=true&locale=en&layout=compact" alt="jrazec" /></p>
 
-### 📈 Overview Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jrazec&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jrazec&show_icons=true&locale=en" alt="jrazec" /></p>
 
-### 🔥 Contribution Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jrazec&theme=radical&hide_border=true)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jrazec&" alt="jrazec" /></p>
 
-### 📊 Contribution Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jrazec&theme=react-dark&hide_border=true&area=true)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jrazec&show_icons=true&locale=en&layout=compact" alt="jrazec" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jrazec&show_icons=true&locale=en" alt="jrazec" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jrazec&" alt="jrazec" /></p>
 
 ### 💻 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jrazec&layout=compact&theme=radical&hide_border=true&langs_count=10&exclude_repo=repo-to-exclude)
@@ -96,8 +102,6 @@ JavaScript/TypeScript • Python • Java • PHP • C# • SQL
 ### 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=jrazec&theme=radical&no-frame=true&no-bg=true&row=1&column=7)
 
-### 📅 Contribution Heatmap
-![GitHub Contribution Grid Snake Animation](https://raw.githubusercontent.com/jrazec/jrazec/output/github-contribution-grid-snake-dark.svg)
 
 ### 📌 Pinned Repositories Stats
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jrazec&repo=your-repo-name&theme=radical&hide_border=true)](https://github.com/jrazec/your-repo-name)
@@ -105,13 +109,6 @@ JavaScript/TypeScript • Python • Java • PHP • C# • SQL
 
 </div>
 
-### 📉 Detailed Metrics
-
-<div align="center">
-
-![Metrics](https://metrics.lecoq.io/jrazec?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&lines=1&habits=1&repositories=1&code=1&achievements=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.trim=false&repositories=100&code.lines=12&code.load=400&code.days=3&code.visibility=public&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FManila)
-
-</div>
 
 ---
 
@@ -134,8 +131,6 @@ JavaScript/TypeScript • Python • Java • PHP • C# • SQL
 <summary>📊 More Stats</summary>
 <br>
 
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C234%20hrs%2056%20mins-blue)
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
