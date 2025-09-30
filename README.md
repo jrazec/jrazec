@@ -84,31 +84,47 @@ JavaScript/TypeScript • Python • Java • PHP • C# • SQL
 ## 📊 GitHub Stats & Analytics
 
 <div align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jrazec&show_icons=true&locale=en&layout=compact" alt="jrazec" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jrazec&show_icons=true&locale=en" alt="jrazec" /></p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=jrazec&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jrazec&" alt="jrazec" /></p>
+### 🔥 Contribution Streak
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jrazec&show_icons=true&locale=en&layout=compact" alt="jrazec" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jrazec&show_icons=true&locale=en" alt="jrazec" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jrazec&" alt="jrazec" /></p>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jrazec&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ### 💻 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jrazec&layout=compact&theme=radical&hide_border=true&langs_count=10&exclude_repo=repo-to-exclude)
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrazec&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" />
+</p>
 
 ### 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=jrazec&theme=radical&no-frame=true&no-bg=true&row=1&column=7)
 
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=jrazec&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
+</p>
 
 ### 📌 Pinned Repositories Stats
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jrazec&repo=your-repo-name&theme=radical&hide_border=true)](https://github.com/jrazec/your-repo-name)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jrazec&repo=another-repo&theme=radical&hide_border=true)](https://github.com/jrazec/another-repo)
+
+<p>
+  <a href="https://github.com/jrazec/qroom">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jrazec&repo=qroom&theme=radical&hide_border=true" alt="Repo Card" />
+  </a>
+   <a href="https://github.com/jrazec/bsu-niverse">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jrazec&repo=bsu-niverse&theme=radical&hide_border=true" alt="Repo Card" />
+  </a>
+   <a href="https://github.com/jrazec/tcc_web_app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jrazec&repo=tcc_web_app&theme=radical&hide_border=true" alt="Repo Card" />
+  </a>
+  <a href="https://github.com/jrazec/barakollect">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jrazec&repo=barakollect&theme=radical&hide_border=true" alt="Repo Card" />
+  </a>
+</p>
 
 </div>
-
 
 ---
 
@@ -150,9 +166,9 @@ JavaScript/TypeScript • Python • Java • PHP • C# • SQL
 
 ## 🤝 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/janedoe)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jrazec)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jrazec)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janedoe@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnrazeca@gmail.com)
 
 ---
 
