@@ -113,10 +113,10 @@ JavaScript/TypeScript • Python • Java • PHP • C# • SQL
   <a href="https://github.com/jrazec/qroom">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jrazec&repo=qroom&theme=radical&hide_border=true" alt="Repo Card" />
   </a>
-   <a href="https://github.com/jrazec/bsu-niverse">
+  <a href="https://github.com/jrazec/bsu-niverse">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jrazec&repo=bsu-niverse&theme=radical&hide_border=true" alt="Repo Card" />
   </a>
-   <a href="https://github.com/jrazec/tcc_web_app">
+  <a href="https://github.com/jrazec/tcc_web_app">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jrazec&repo=tcc_web_app&theme=radical&hide_border=true" alt="Repo Card" />
   </a>
   <a href="https://github.com/jrazec/bsu-tneu_lipa_rpg">
