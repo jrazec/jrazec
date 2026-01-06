@@ -81,19 +81,6 @@ JavaScript/TypeScript • Python • Java • PHP • C# • SQL
 
 ---
 
-## 📊 GitHub Stats & Analytics
-
-<div align="center">
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=jrazec&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</p>
-
-### 🔥 Contribution Streak
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jrazec&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ### 💻 Most Used Languages
 
