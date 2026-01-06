@@ -12,6 +12,9 @@
 - 🌱 Currently working on: **Capstone Project** - A digital repository for Liberica/Excelsa coffee beans with GIS mapping
 - 💡 Passionate about: Full-stack development, Database Management, Backend and all sorts of coding!!!
 
+## Portfolio
+![See my online portfolio here!](https://razec.vercel.app/)
+
 ---
 
 ## 💻 Tech Stack
@@ -81,18 +84,6 @@ JavaScript/TypeScript • Python • Java • PHP • C# • SQL
 
 ---
 
-
-### 💻 Most Used Languages
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrazec&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" />
-</p>
-
-### 🏆 GitHub Trophies
-
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=jrazec&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
-</p>
 
 ### 📌 Pinned Repositories Stats
 
