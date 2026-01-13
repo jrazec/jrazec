@@ -12,8 +12,10 @@
 - 🌱 Currently working on: **Capstone Project** - A digital repository for Liberica/Excelsa coffee beans with GIS mapping
 - 💡 Passionate about: Full-stack development, Database Management, Backend and all sorts of coding!!!
 
-## Portfolio
-![See my online portfolio here!](https://razec.vercel.app/)
+## Reach Me Out!
+[Linkedin](https://linkedin.com/in/jrazec/)
+[See my online portfolio here!](https://razec.vercel.app/)
+
 
 ---
 
