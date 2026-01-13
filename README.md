@@ -13,8 +13,8 @@
 - 💡 Passionate about: Full-stack development, Database Management, Backend and all sorts of coding!!!
 
 ## Reach Me Out!
-[Linkedin](https://linkedin.com/in/jrazec/)
-[See my online portfolio here!](https://razec.vercel.app/)
+- [Linkedin](https://linkedin.com/in/jrazec/)
+- [See my online portfolio here!](https://razec.vercel.app/)
 
 
 ---
